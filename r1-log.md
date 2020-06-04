@@ -10,12 +10,11 @@
 ### R1D2
 Добавил график моделей. Настроил сервер под gunicorn
 
-
 ### R1D3
-
+Сделал шаблон на Vue. Настроил webpack_loader
 
 ### R1D4
-
+мелкие фиксы настроек, путей генерации webpack и CORS запросов к GraphQL graphene_django 
 
 ### R1D5
 
